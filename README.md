@@ -133,7 +133,9 @@ Ver  ́onica P  ́erez-Rosas, Rada Mihalcea, Ken Resnicow, Satinder Singh, and L
 Stef  ́an  ́Olafsson, Teresa O’leary, and Timothy Bickmore. Coerced change-talk with conversational agents promotes confidence in behavior change. 05 2019. doi: 10.1145/3329189.3329202.
 
 <a id="9">[9]</a>
-Burke BL Butters R Tollefson D Butler C Rollnick S. Lundahl B, Moleni T. Motivational interviewing: The basics, oars. 2007. URL https://iod.unh.edu/sites/default/files/motivational_interviewing_tips_for_working_with_youth-oars.pdf.
+Homelessness Resource Center (HRC). 2007. Motivational Interviewing: The Basics, OARS. https://iod.unh.edu/sites/default/files/motivational_
+interviewing_tips_for_working_with_youth-oars.pdf and https://www.homelesshub.ca/resource/motivational-interviewing-open-questionsaffirmation-reflective-listening-and-summary (Adapted from handouts by David Rosengren and from Miller Rollnick, Motivational Interviewing,
+2nd Edition, 2002).
 
 <a id="10">[10]</a>
 Strategies of motivational interviewing – oars. URL https://health.uconn.edu/sbirtacademy/wp-content/uploads/sites/101/2018/03/MI-OARS-Handout.pdf. Accessed: 2022-15-08
