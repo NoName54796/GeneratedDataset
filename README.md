@@ -2,9 +2,9 @@
 
 This repository contains the dataset for the article titled "Modelling and Evaluating Motivational Interviewing in a Chatbot", which was compiled based on numerous earlier investigations. 
 
-The first column containts the adapted sentence in order to fit with the dialogue's purpose, while the second column is meant for its reference.
+The first column contains the sentences collected from other articles, some of which were adapted in order to fit with the dialogue's purpose, while the second column is meant for its reference.
 
-OARS - adapted sentence | Reference
+Sentence | Reference
 --- | --- 
 What do you think you could cut that down to? | [[1]](#1) |
 I'd like to get your input on this. | [[1]](#1) |
