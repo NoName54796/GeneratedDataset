@@ -4,6 +4,8 @@ This repository contains the dataset for the article titled "Modelling and Evalu
 
 The first column contains the sentences collected from other articles, some of which were adapted in order to fit with the dialogue's purpose, while the second column is meant for its reference.
 
+E.g.: "What is good about smoking?"[[12]](#12), became "What is a good thing about eating sugar?"
+
 Sentence | Reference
 --- | --- 
 What do you think you could cut that down to? | [[1]](#1) |
