@@ -108,48 +108,45 @@ Let’s forget about your numbers for now and work on a small goal that you feel
 
 ## References
 <a id="1">[1]</a> 
-Fox CH. Stewart EE. Encouraging patients to change unhealthy behaviors with motivational interviewing. 18(3):21–25, 2011. URL https://www.aafp.org/dam/brand/aafp/pubs/fpm/issues/2011/0500/p21.pdf.
+Elizabeth E. Stewart and Chester H. Fox. 2011. Encouraging Patients to Change Unhealthy Behaviors With Motivational Interviewing. Family practice management 18, 3 (2011), 21–25. https://www.aafp.org/dam/brand/aafp/pubs/fpm/issues/2011/0500/p21.pdf
 
 <a id="2">[2]</a> 
-Maeve Hanan. Using motivational interviewing in nutrition consultations. NHD Magazine, 01 2019. URL https://dieteticallyspeaking.com/wp-content/uploads/2019/01/EXTRA-Motive-Interviews-final.pdf.
+Maeve Hanan. 2019. USING MOTIVATIONAL INTERVIEWING IN NUTRITION CONSULTATIONS. NHD Magazine. https://
+dieteticallyspeaking.com/wp-content/uploads/2019/01/EXTRA-Motive-Interviews-final.pdf and https://dieteticallyspeaking.com/motivationalinterviewing-for-nutrition-consultations/#:~:text=This%20involves%20talking%20about%20how,do%20not%20make%20the%20change
 
 <a id="3">[3]</a> 
-Kuthethur Das, Tessa Beinema, Harm Akker, and Hermie Hermens. Generation of multi-party dialogues among embodied conversational agents to promote active living and healthy diet for subjects suffering from type 2 diabetes. pages 297–304, 01 2019. doi: 10.5220/0007750602970304.
+Kuthethur Sneha Jagannath Das., Tessa Beinema., Harm op den Akker., and Hermie Hermens. 2019. Generation of Multi-Party Dialogues among Embodied Conversational Agents to Promote Active Living and Healthy Diet for Subjects Suffering from Type 2 Diabetes. In Proceedings of the 5th International Conference on Information and Communication Technologies for Ageing Well and e-Health - ICT4AWE,. INSTICC, SciTePress, 297–304. https://doi.org/10.5220/0007750602970304
 
 <a id="4">[4]</a> 
-Basar E. Wiers R.W. et al. He, L. Can chatbots help to motivate smoking cessation? a study on the
-effectiveness of motivational interviewing on engagement and therapeutic alliance. BMC Public
-Health, 2022. doi: 10.1186/s12889-022-13115-x.
+Linwei He, Erkan Basar, Reinout W. Wiers, Marjolijn L. Antheunis, and Emiel Krahmer. 2022. Can chatbots help to motivate smoking cessation? A study on the effectiveness of motivational interviewing on engagement and therapeutic alliance. 22, 1 (2022), 726. https://doi.org/10.1186/s12889-022-13115-x
 
 <a id="5">[5]</a> 
-SoHyun Park, Jeewon Choi, Sungwoo Lee, Changhoon Oh, Changdai Kim, Soohyun La, Joonhwan Lee, and Bongwon Suh. Designing a chatbot for a brief motivational interview on stress management: Qualitative case study. J Med Internet Res, 21(4):e12231, Apr 2019. ISSN 1438-8871. doi:
-10.2196/12231. URL https://www.jmir.org/2019/4/e12231/.
+SoHyun Park, Jeewon Choi, Sungwoo Lee, Changhoon Oh, Changdai Kim, Soohyun La, Joonhwan Lee, and Bongwon Suh. 2019. Designing a Chatbot for a Brief Motivational Interview on Stress Management: Qualitative Case Study. J Med Internet Res 21, 4 (16 Apr 2019), e12231. https://doi.org/10.2196/12231
 
 <a id="6">[6]</a>
-Samiha Samrose and Ehsan Hoque. Mia: Motivational interviewing agent for improving conversational skills in remote group discussions. Proc. ACM Hum.-Comput. Interact., 6(GROUP), jan 2022. doi: 10.1145/3492864. URL https://doi.org/10.1145/3492864. 
+Samiha Samrose and Ehsan Hoque. 2022. MIA: Motivational Interviewing Agent for Improving Conversational Skills in Remote Group Discussions. Proc. ACM Hum.-Comput. Interact. 6, GROUP, Article 45 (jan 2022), 24 pages. https://doi.org/10.1145/3492864
 
 <a id="7">[7]</a>
-Ver  ́onica P  ́erez-Rosas, Rada Mihalcea, Ken Resnicow, Satinder Singh, and Lawrence An. Building a motivational interviewing dataset. pages 42–51, 01 2016. doi: 10.18653/v1/W16-0305.
+Verónica Pérez-Rosas, Rada Mihalcea, Kenneth Resnicow, Satinder Singh, and Lawrence An. 2016. Building a Motivational Interviewing Dataset. In Proceedings of the Third Workshop on Computational Linguistics and Clinical Psychology. Association for Computational Linguistics, San Diego, CA, USA, 42–51. https://doi.org/10.18653/v1/W16-0305
 
 <a id="8">[8]</a>
-Stef  ́an  ́Olafsson, Teresa O’leary, and Timothy Bickmore. Coerced change-talk with conversational agents promotes confidence in behavior change. 05 2019. doi: 10.1145/3329189.3329202.
+Stefan Olafsson, Teresa O’Leary, and Timothy Bickmore. 2019. Coerced Change-Talk with Conversational Agents Promotes Confidence in Behavior Change. In Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare (Trento, Italy) (PervasiveHealth’19). Association for Computing Machinery, New York, NY, USA, 31–40. https://doi.org/10.1145/3329189.3329202
 
 <a id="9">[9]</a>
-Homelessness Resource Center (HRC). 2007. Motivational Interviewing: The Basics, OARS. https://iod.unh.edu/sites/default/files/motivational_
-interviewing_tips_for_working_with_youth-oars.pdf and https://www.homelesshub.ca/resource/motivational-interviewing-open-questionsaffirmation-reflective-listening-and-summary (Adapted from handouts by David Rosengren and from Miller Rollnick, Motivational Interviewing,
+Homelessness Resource Center (HRC). 2007. Motivational Interviewing: The Basics, OARS. https://iod.unh.edu/sites/default/files/motivational_interviewing_tips_for_working_with_youth-oars.pdf and https://www.homelesshub.ca/resource/motivational-interviewing-open-questionsaffirmation-reflective-listening-and-summary (Adapted from handouts by David Rosengren and from Miller Rollnick, Motivational Interviewing,
 2nd Edition, 2002).
 
 <a id="10">[10]</a>
-Strategies of motivational interviewing – oars. URL https://health.uconn.edu/sbirtacademy/wp-content/uploads/sites/101/2018/03/MI-OARS-Handout.pdf. Accessed: 2022-15-08
+William R. Miller and Stephen Rollnick. 2002. Strategies of Motivational Interviewing – OARS. https://health.uconn.edu/sbirtacademy/wpcontent/uploads/sites/101/2018/03/MI-OARS-Handout.pdf Handout.
 
 <a id="11">[11]</a>
-TheIRETAchannel Alan Lyme. Motivational interviewing - good example - alan lyme. URL https://www.youtube.com/watch?v=67I6g1I7Zao.
+TheIRETAchannel Alan Lyme. 2013. Motivational Interviewing - Good Example - Alan Lyme. Youtube. https://www.youtube.com/watch?v=67I6g1I7Zao
 
 <a id="12">[12]</a>
-Fahad Almusharraf, Jonathan Rose, and Peter Selby. Engaging unmotivated smokers to move toward quitting: Design of motivational interviewing–based chatbot through iterative interactions. J Med Internet Res, 22(11):e20251, Nov 2020. ISSN 1438-8871. doi: 10.2196/20251. URL https://www.jmir.org/2020/11/e20251.
+Fahad Almusharraf, Jonathan Rose, and Peter Selby. 2020. Engaging Unmotivated Smokers to Move Toward Quitting: Design of Motivational Interviewing–Based Chatbot Through Iterative Interactions. J Med Internet Res 22, 11 (3 Nov 2020), e20251. https://doi.org/10.2196/20251
 
 <a id="13">[13]</a>
-Toshikazu Kanaoka and Bilge Mutlu. Designing a motivational agent for behavior change in physical activity. pages 1445–1450, 04 2015. doi: 10.1145/2702613.2732924.
+Toshikazu Kanaoka and Bilge Mutlu. 2015. Designing a Motivational Agent for Behavior Change in Physical Activity. In Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems (Seoul, Republic of Korea) (CHI EA ’15). Association for Computing Machinery, New York, NY, USA, 1445–1450. https://doi.org/10.1145/2702613.2732924
 
 <a id="14">[14]</a>
-Daniel Schulman, Timothy Bickmore, and Candace Sidner. An intelligent conversational agent for promoting long-term health behavior change using motivational interviewing. AAAI Spring Symposium - Technical Report, 01 2011.
+Daniel Schulman, Timothy W. Bickmore, and Candace L. Sidner. 2011. An Intelligent Conversational Agent for Promoting Long-Term Health Behavior Change Using Motivational Interviewing. AAAI Spring Symposium: AI and Health Communication
